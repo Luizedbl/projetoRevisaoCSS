@@ -1,0 +1,7 @@
+body{
+    background-image: url(imagens/fundo.png);
+}
+#capa{
+    width: 900px;
+    margin: 0 auto;
+}
